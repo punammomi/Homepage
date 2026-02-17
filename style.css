@@ -6,8 +6,10 @@ body{
 img{
     width: 500px;
     height: 500px;
-}
+    border-radius: 70%;
+} 
 .item{   
     display: flex;
     justify-content: space-around;
+    
 }
