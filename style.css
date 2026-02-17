@@ -4,12 +4,16 @@ body{
 }
 
 img{
-    width: 500px;
-    height: 500px;
-    border-radius: 70%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
 } 
+
 .item{   
     display: flex;
     justify-content: space-around;
+    gap:15px;
+    padding: 50px;
     
 }
