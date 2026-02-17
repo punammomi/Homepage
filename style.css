@@ -3,8 +3,10 @@ body{
     text-align: center;
 }
 
-.item-wrapper{
+.item{
+    justify-content: space-around;
+    align-items: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 20px;
 }
