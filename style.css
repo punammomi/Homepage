@@ -12,8 +12,5 @@ img{
 
 .item{   
     display: flex;
-    justify-content: space-around;
-    gap:15px;
-    padding: 50px;
-    
+    justify-content: space-around;    
 }
