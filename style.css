@@ -3,7 +3,10 @@ body{
     text-align: center;
 }
 
-imag{
+#item{
     width: 100px;
-    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
