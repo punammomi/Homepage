@@ -3,10 +3,13 @@ body{
     text-align: center;
 }
 
+img{
+    width: 100px;
+    height: 100px;
+}
 .item{
-    justify-content: space-around;
-    align-items: center;
+    width:200px;
+    height:200px;
     display: flex;
-    flex-direction: row;
-    gap: 20px;
+    justify-content: space-around;
 }
