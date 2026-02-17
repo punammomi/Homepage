@@ -1,7 +1,8 @@
 body{
     margin: 0;
     text-align: center;
-    background-image: ;
+    background-image:url("Images/jpg.jpg") ;
+    background-size:cover;
 }
 
 img{
