@@ -35,3 +35,11 @@ img{
     display: flex;
     justify-content: space-around;    
 }
+
+.container{
+    color:white;
+    margin-top: 30px;
+    background-color: #463F3A;
+    padding:0px 2px 30px 2px;
+    
+}
