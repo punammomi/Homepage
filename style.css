@@ -39,18 +39,23 @@ img{
 .container{
     color:white;
     margin-top: 30px;
-    background-color: #463F3A;
+    background: #2a1a1f;
     padding:0px 2px 30px 2px;
     
 }
 
 #coach{
-    margin-top: 30px;
-    background-color: #1d161777;
-    border-radius: 10px;
-    padding: 5px 30px;
+    width:600px;
+    height: 200px;
+    border:10px solid#1d161777;
+    margin: 10px auto;
+    padding: 20px;
     display: flex;
-    justify-content: space-around;
+    text-align: left;
     align-items: center;
-    text-align: center;
+    justify-content: space-evenly;
+    background: #3e2a2679;
+    border-radius: 30px;
 }
+    
+
