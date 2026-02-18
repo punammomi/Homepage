@@ -7,9 +7,8 @@ body{
 #main{
     background-image:url("Images/jpg.jpg") ;
     width: 1000px;
-    height: 500px;
-    margin: auto;
-    margin-top: 50px;
+    height: 400px;
+    margin: 100px 100px 100px 100px;
     border-radius: 20px;
 }
 
