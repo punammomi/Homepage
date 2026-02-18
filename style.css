@@ -1,8 +1,16 @@
 body{
     margin: 0;
     text-align: center;
-    background-image:url("Images/jpg.jpg") ;
     background-size:2450px;
+}
+
+#main{
+    background-image:url("Images/jpg.jpg") ;
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
 }
 
 img{
@@ -13,6 +21,7 @@ img{
 } 
 
 .item{   
+    margin-top: 30px;
     display: flex;
     justify-content: space-around;    
 }
